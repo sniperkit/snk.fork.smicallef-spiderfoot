@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 //-------------------------------------------------------------------------------
 // Name:         spiderfoot.js
 // Purpose:      All the javascript code for the spiderfoot aspects of the UI.

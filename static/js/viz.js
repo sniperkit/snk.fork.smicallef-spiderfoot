@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Takes an object in the form of:
 // { name: "blah", children: [ { name: "blah 2", children: [ ... ] } ] }
 // and counts the number of objects without children
